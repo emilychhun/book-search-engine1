@@ -64,7 +64,7 @@ none at this time
  
  
 ## Tests
-once the app is started, try creating an account via the signup. k Once signed in, then search for a book and try saving the book to See Uour Books.
+once the app is started, try creating an account via the signup. k Once signed in, then search for a book and try saving the book to See Your Books.
 <br />
  
 ## Questions
@@ -74,7 +74,7 @@ Feel free to reach out to us with any questions you have about Book Search Engin
    *✋please contact us via Github with the information below:*
   
 
-* Find me on GitHub 4: [emilychhun](https://github.com/emilychhun)
+* Find me on GitHub: [emilychhun](https://github.com/emilychhun)
 
 
 <br />
