@@ -5,7 +5,7 @@
 
 ## Description 
   
-  Film Grabber is an application where users can view trending movies, search for movies, see movie details and create a watchlist of movies they want to see. Some of the information returned from the search includes the movie title, overview, popularity, revenue and release date. This application was made to help those movie fanatics pick the right movie at home during COVID-19. 
+  The Book search engine is an application is leveraging the entire MERN stack and with a React front end, MongoDB database, and Node.js/Express.js server and API. It's set up to allow users to save book searches to the back end. The application is built using Google Books API search engine build with GraphQL API and Apollo Server. 
 
 <br />
  
@@ -23,7 +23,7 @@
 <br />
 
 ## Installation
-navigate to desired installation directory and run "git clone https://github.com/GRech17/film-grabber.git".  After that, while in the root directory of the project inside the terminal, run "npm i" to install all node packages needed for the application.
+navigate to desired installation directory and run "git clone https://github.com/emilychhun/book-search-engine1".  After that, while in the root directory of the project inside the terminal, run "npm i" to install all node packages needed for the application.
  ## Technology
   
 Below is a list of technologies used to build this app.
@@ -49,10 +49,9 @@ once installed with the npm dependencies, invoke the application by running "npm
 <br />
   
 ## Credits
-- [GRech17](https://github.com/GRech17)
-- [jchavezval](https://github.com/jchavezval)
+
 - [emilychhun](https://github.com/emilychhun)
-- [jitochadha1](https://github.com/jitochadha1)
+
 
   <br />
 ## License
@@ -65,31 +64,27 @@ none at this time
  
  
 ## Tests
-once the app is started, try creating an account via the signup. k Once signed in, then search for a movie and try saving the movie to your watchlist page
+once the app is started, try creating an account via the signup. k Once signed in, then search for a book and try saving the book to See Uour Books.
 <br />
  
 ## Questions
-Feel free to reach out to us with any questions you have about Film Grabber
+Feel free to reach out to us with any questions you have about Book Search Engine.
   <br />
 
    *✋please contact us via Github with the information below:*
   
 
-* Find me on GitHub 1: [Gabriel Reches](https://github.com/GRech17)   
-* Find me on GitHub 2: [Juan Chavez](https://github.com/jchavezval)
 * Find me on GitHub 4: [emilychhun](https://github.com/emilychhun)
-* Find me on GitHub 3: [Jito Chadha](https://github.com/jitochadha1)
+
 
 <br />
 
   ## Repo link:
-  https://github.com/GRech17/film-grabber
+ https://github.com/emilychhun/book-search-engine1
   <br />
-  ## Live App: 
-  https://film-grabber.herokuapp.com
-  <br />
+
 
 ## Screenshots
-<img src="./search-trending.png">
+<img src="./book.png">
 
-<img src="./watchlist.png">
+
