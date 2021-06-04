@@ -42,7 +42,7 @@ Below is a list of technologies used to build this app.
  11. Mongoose
  12. react bootstrap, react bootstrap icons
  13. Lodash
- 14. Workbox (for service worker)
+ 
   
 ## Usage
 once installed with the npm dependencies, invoke the application by running "npm start" from the command line of the project's root directory
